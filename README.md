@@ -12,11 +12,6 @@ Esta é uma aplicação simples de jogo da velha desenvolvida utilizando HTML, C
 
 ## Como Usar
 
-1. Clone o repositório:
-
-```bash/cmd ```
-git clone https://github.com/PhCalegari/Jogodavelha.git
-
 Abra o arquivo index.html no seu navegador web.
 
 1º XXXXXX.
