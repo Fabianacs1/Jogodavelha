@@ -1,11 +1,21 @@
-# Jogodavelha
-Esta é uma aplicação simples de jogo da velha desenvolvida utilizando HTML, CSS e JavaScript.
-Funcionalidades
-Iniciar jogo
-Jogar com uma pessoa
-Jogar com a máquina/computador
+# Jogo da velha
 
-Como Usar
+Esta é uma aplicação simples de jogo da velha desenvolvida utilizando HTML, CSS e JavaScript.
+
+<img src="/assets/screen.png">
+
+## Funcionalidades
+
+- Iniciar jogo
+- Jogar com uma pessoa
+- Jogar com a máquina/computador
+
+## Como Usar
+
+1. Clone o repositório:
+
+```bash/cmd ```
+git clone https://github.com/PhCalegari/Jogodavelha.git
 
 Abra o arquivo index.html no seu navegador web.
 
@@ -17,4 +27,9 @@ Abra o arquivo index.html no seu navegador web.
 
 4º XXXXXX.
 
-Contribuindo Sinta-se à vontade para contribuir com melhorias neste projeto. Abra um pull request com suas alterações.
+
+
+Contribuindo
+Sinta-se à vontade para contribuir com melhorias neste projeto. Abra um pull request com suas alterações.
+
+
