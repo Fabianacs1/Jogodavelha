@@ -1,4 +1,4 @@
-# Jogo da velha
+# Esta é uma aplicação simples de jogo da velha desenvolvida utilizando HTML, CSS e JavaScript.
 
 Esta é uma aplicação simples de jogo da velha desenvolvida utilizando HTML, CSS e JavaScript.
 
